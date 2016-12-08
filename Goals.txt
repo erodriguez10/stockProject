@@ -1,0 +1,22 @@
+create index.html
+
+start on UI
+
+CAPABILITY IDEAS:
+
+obv stock price/  show price over past year, common attributes eg (high price past 52 weeks, low price 52 weeeks, 
+current volume, show current close price, after close gain/loss, (low, high, open for that day), div/yield, mkt cap, p/e ratio
+
+obv index gain/loss
+
+personal list of stocks to watch
+multiple lists
+
+
+possible news reports on certain stocks when searching through their page (straight from robinhood)
+
+algorithms to be able to predict stock gains/losses over certain periods of time, with probablity for diff time periods
+
+
+
+
